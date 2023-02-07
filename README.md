@@ -1,4 +1,5 @@
-## Hello world! 👋🌎 \nI'm Javier Sarabia!  
+## Hello world! 👋🌎 
+## I'm Javier Sarabia!  
   
 
 <a href="https://github.com/javiburn" target="_blank">
