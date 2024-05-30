@@ -6,7 +6,7 @@ need to always keep learning and adapting yourself to the latest innovations.
 
 Here are some of the projects I have been developing so far, I hope you like them!
 
-Also, you can check my LinkedIn profile and connect with me if you are interested:
+Also, you can take a look to my LinkedIn profile and connect with me if you are interested:
 
 
 <a href="https://linkedin.com/in/javier-sarabia-224580195" target="_blank">
